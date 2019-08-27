@@ -36,6 +36,7 @@ public class Mysweetprogram {
         boolean g= false;
         System.out.println(g);
 	}
+}
     	//package and variables start with lower cases
 	    //class and project_name start with upper cases
 	//access modifier(who able to access)
@@ -43,6 +44,8 @@ public class Mysweetprogram {
 	//2.private=the only access wt am declear
 	//3.public=everyboday hv able to access
 	//4.protected=
+	//non static value can access only in the non static values
+	//static can access every where
   //METHOD static                           non_static
 //         1.void                           1.void
 //         2.return type                    2.return type
@@ -50,4 +53,4 @@ public class Mysweetprogram {
 	//desirerd_class_name refvar(object_name)=new(keyword)constructor(instance of the class))
      //class define the template
 	 //object are specific instance of the template
-
+//debug=where we whont to the java is going to stop
